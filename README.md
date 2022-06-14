@@ -14,6 +14,14 @@ Para entrar em contato comigo, por favor mande e-mail para renataomgomes.97@gmai
 - [Dashboards no Tableau](https://github.com/renata-om-gomes/renata-om-gomes/edit/main/README.md#dashboards-no-tableau)
 
 ## Projetos em SQL 
+Esse repositório inclui uma coleção de projetos que conclui usando SQL. 
+
+| Nome do Projeto  |  Descrição  | 
+| ------------------- | ------------------- | 
+|  Análise de cancelamentos de hotéis |  Escrever queries para realizar análise de cancelamentos em rede de hotelaria e propor soluções para redução de impacto financeiro | 
+|  Análise de empresa de telecomunicações |  Explorar e limpar grandes volumes de dados, mesclar tabelas usando JOIN | 
+
+
 ## Projetos no Google Sheets
 ## Dashboards no PowerBI
 ## Dashboards no Tableau
