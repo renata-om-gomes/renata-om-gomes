@@ -19,7 +19,7 @@ Esse repositório inclui uma coleção de projetos que conclui usando SQL.
 | Nome do Projeto  |  Descrição  | 
 | ------------------- | ------------------- | 
 |  [Análise de cancelamentos de hotéis](https://github.com/renata-om-gomes/analise-rede-hotelaria) |  Escrever queries para realizar análise de cancelamentos em rede de hotelaria e propor soluções para redução de impacto financeiro | 
-|  Análise de empresa de telecomunicações |  Explorar e limpar grandes volumes de dados, mesclar tabelas usando JOIN | 
+|  [Análise de empresa de telecomunicações](https://github.com/renata-om-gomes/analisa-telcom/blob/main/README.md) |  Explorar e limpar grandes volumes de dados, mesclar tabelas usando JOIN | 
 
 
 ## Projetos no Google Sheets
@@ -27,6 +27,6 @@ Esse repositório inclui uma coleção de projetos que conclui usando SQL.
 | Nome do Projeto  |  Descrição  | Dashboard |
 | ------------------- | ------------------- | ------------------- | 
 |  [Análise de cancelamentos de hotéis](https://github.com/renata-om-gomes/analise-rede-hotelaria) |  Uso de dashboard para diagnóstico de cancelamentos em rede de hotelaria para a produção de insights de BI | [Link](https://8da9f318-a934-4801-bf5f-53311cbfd02a.filesusr.com/ugd/95003b_dfa974b157774805b53fc0a9cf108b5f.pdf) |
-|  Análise de empresa de telecomunicações |  Explorar e limpar grandes volumes de dados, mesclar tabelas usando JOIN | Link |
+|  [Análise de empresa de telecomunicações](url) |  Explorar e limpar grandes volumes de dados, mesclar tabelas usando JOIN | [Link](https://8da9f318-a934-4801-bf5f-53311cbfd02a.filesusr.com/ugd/95003b_a2d9484e9ccb44eb9e2e2197c5d354f5.pdf) |
 
 ## Dashboards no Tableau
