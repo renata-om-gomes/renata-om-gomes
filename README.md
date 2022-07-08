@@ -20,7 +20,7 @@ Esse repositório inclui uma coleção de projetos que conclui usando SQL.
 | ------------------- | ------------------- | 
 |  [Análise de cancelamentos de hotéis](https://github.com/renata-om-gomes/analise-rede-hotelaria) |  Escrever queries para realizar análise de cancelamentos em rede de hotelaria e propor soluções para redução de impacto financeiro | 
 |  [Análise de empresa de telecomunicações](https://github.com/renata-om-gomes/analisa-telcom/blob/main/README.md) |  Explorar e limpar grandes volumes de dados, mesclar tabelas usando JOIN | 
-|  [Análise de Preço de Seguro de Saúde](https://github.com/renata-om-gomes/analisa-telcom/blob/main/README.md) |  Analisar dados demográficos de clientes de seguro de saúde | 
+|  [Análise de Preço de Seguro de Saúde](https://github.com/renata-om-gomes/seguro-saude) |  Analisar dados demográficos de clientes de seguro de saúde | 
 
 
 ## Projetos no Google Sheets
